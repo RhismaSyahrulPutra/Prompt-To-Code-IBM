@@ -24,6 +24,10 @@
 - Carbon Icon
 - React-Syntax-Highlighter
 
+<p align="justify">See my Backend Repo:</p>
+
+🔗 [Backend Repository](https://github.com/RhismaSyahrulPutra/backend-ai)
+
 <h2>HOW TO USE</h2>
 ### Cloning the Repository
 
