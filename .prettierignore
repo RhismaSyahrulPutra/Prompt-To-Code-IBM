@@ -1,0 +1,22 @@
+# Output build
+dist
+build
+
+# Dependency folder
+node_modules
+
+# Vite cache
+.vite
+
+# Env files
+.env
+.env.*
+
+# Lock files (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Misc
+coverage
+*.log
